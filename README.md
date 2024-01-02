@@ -8,7 +8,8 @@ I'm studying computer science with a focus on game development and interest in M
 
 * 🌍  I'm based in Hamburg
 * 🖥️  See my portfolio at [my portfolio](http://bnjmntmm.github.io) or my Games at [Itch](https://bnjmntmm.itch.io)
-* 🧠  I'm learning Godot 4
+* 🧠  I'm currently learning React and Three.js, sometimes ML 
+* 🎮  Creating Videogames for a Living is my Goal  
 * 🤝  I'm open to collaborating on any game idea.
 
 ### Skills
