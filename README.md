@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-Student and aspiring Game Dev
+Student and aspiring Game Dev from Hamburg
 -----------------------------
 
 I'm studying computer science with a focus on game development and interest in ML
