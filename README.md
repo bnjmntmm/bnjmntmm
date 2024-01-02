@@ -7,9 +7,9 @@ Student and aspiring Game Dev
 I'm studying computer science with a focus on game development and interest in ML
 
 * 🌍  I'm based in Hamburg
-* 🖥️  See my portfolio at [my repo](http://bnjmntmm.github.io)
+* 🖥️  See my portfolio at [my portfolio](http://bnjmntmm.github.io) or my Games at [Itch](https://bnjmntmm.itch.io)
 * 🧠  I'm learning Godot 4
-* 🤝  I'm open to collaborating on any game idea
+* 🤝  I'm open to collaborating on any game idea.
 
 ### Skills
 
