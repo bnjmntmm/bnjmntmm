@@ -10,7 +10,7 @@ Student and aspiring Game Dev from Hamburg
 I'm studying computer science with a focus on game development and interest in ML
 
 * 🌍  I'm based in Hamburg
-* 🖥️  See my portfolio at [my portfolio](http://bnjmntmm.github.io) or my Games at [Itch](https://bnjmntmm.itch.io)
+* 🖥️  See my Games at [Itch](https://bnjmntmm.itch.io)
 * 🧠  I'm currently learning React and Three.js, sometimes ML 
 * 🎮  Creating Videogames for a Living is my Goal  
 * 🤝  I'm open to collaborating on any game idea.
