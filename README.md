@@ -7,7 +7,7 @@
 Student and aspiring Game Dev from Hamburg
 -----------------------------
 
-I'm studying computer science with a focus on game development and interest in ML
+I'm studying computer science with a focus on game development
 
 * 🌍  I'm based in Hamburg
 * 🖥️  See my Games at [Itch](https://bnjmntmm.itch.io)
